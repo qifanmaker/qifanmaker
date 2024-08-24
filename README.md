@@ -14,3 +14,7 @@ How to contact me?
 - Tencent QQ: 317108643 (common)
 - Email: [qifanmaker@gmail.com](mailto:qifanmaker@gmail.com) (common)
 - Telegram: [@qifan_maker](https://t.me/qifan_maker)
+
+My coding time:
+
+[![](https://wakatime.com/share/@018c820f-a474-4f14-a7eb-538dba42d1e1/57e31912-cb9c-4c85-9821-11b29d8df74d.svg)](https://wakatime.com/@qifan_maker)
