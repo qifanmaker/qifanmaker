@@ -1,6 +1,6 @@
-## Hi qifan_maker there 👋
+## Hi qifan_maker here 👋
 
-An AD OIer, located in Jiangxi,China.
+An OIer, located in Jiangxi,China.
 
 My CP account (Click them to access):
 
